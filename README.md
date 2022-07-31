@@ -1,1 +1,1 @@
-# Modeling_upstage
+# Modeling_boostcamp
